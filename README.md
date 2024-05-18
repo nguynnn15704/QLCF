@@ -9,7 +9,7 @@
 
 Phần mềm này sẽ mang lại nhiều lợi ích cho quán. Trợ giúp nhân viên làm việc dễ dàng hơn, linh động hơn, mang lại sự tin tưởng của khách hàng với quánquán. Mục đích của phần mềm này là hỗ trợ quán cà phê trong việc nâng cao hiệu quả quản lý, giúp nhân viên thực thi nghiệp vụ nhanh chóng để tiết kiệm thời gian, chi phí.
 
->## Nhóm thực hiện: Hạt Nhài
+>## Nhóm thực hiện: 6B
 
 Khoa: Hệ thống thông tin
 
