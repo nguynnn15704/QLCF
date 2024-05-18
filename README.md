@@ -1,6 +1,6 @@
 # Tên đề tài: Phân tích và thiết kế hệ thống quản lý đặt hàng của quán cà phê 
 
-> Giới thiệu đồ án
+>## Giới thiệu đồ án
 
 Đồ án này đề xuất phát triển hệ thống quản lý đặt hàng cho quán cà phê nhằm tối ưu hóa quy trình vận hành, nâng cao chất lượng dịch vụ cho khách hàng và doanh nghiệp. Hệ thống sẽ bao gồm các tính năng chính như:
 - Quản lý đơn hàng: Tiếp nhận đơn đặt hàng, theo dõi trạng thái đơn hàng.
@@ -9,7 +9,7 @@
 
 Phần mềm này sẽ mang lại nhiều lợi ích cho quán. Trợ giúp nhân viên làm việc dễ dàng hơn, linh động hơn, mang lại sự tin tưởng của khách hàng với quánquán. Mục đích của phần mềm này là hỗ trợ quán cà phê trong việc nâng cao hiệu quả quản lý, giúp nhân viên thực thi nghiệp vụ nhanh chóng để tiết kiệm thời gian, chi phí.
 
-> Nhóm thực hiện: Hạt Nhài
+>## Nhóm thực hiện: Hạt Nhài
 
 Khoa: Hệ thống thông tin
 
