@@ -1,28 +1,49 @@
+<!-- Banner -->
 <p align="center">
-  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
-    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="UIT - University of Information Technology" width="400">
   </a>
 </p>
-# Tên đề tài: Phân tích và thiết kế hệ thống quản lý đặt hàng của quán cà phê 
 
->## Giới thiệu đồ án
+<h1 align="center"><b>PHÂN TÍCH & THIẾT KẾ HỆ THỐNG THÔNG TIN – IS201.O23</b></h1>
+<p align="center"><i>Học kỳ 2 – Năm học 2023–2024</i></p>
 
-Đồ án này đề xuất phát triển hệ thống quản lý đặt hàng cho quán cà phê nhằm tối ưu hóa quy trình vận hành, nâng cao chất lượng dịch vụ cho khách hàng và doanh nghiệp. Hệ thống sẽ bao gồm các tính năng chính như:
-- Quản lý đơn hàng: Tiếp nhận đơn đặt hàng, theo dõi trạng thái đơn hàng.
-- Quản lý thực đơn: Cập nhật thực đơn, hình ảnh, mô tả món ăn, giá cả, khuyến mãi.
-- Quản lý khách hàng: Lưu trữ thông tin khách hàng, lịch sử đặt hàng, sở thích, tích điểm đổi thưởng.
+---
 
-Phần mềm này sẽ mang lại nhiều lợi ích cho quán. Trợ giúp nhân viên làm việc dễ dàng hơn, linh động hơn, mang lại sự tin tưởng của khách hàng với quánquán. Mục đích của phần mềm này là hỗ trợ quán cà phê trong việc nâng cao hiệu quả quản lý, giúp nhân viên thực thi nghiệp vụ nhanh chóng để tiết kiệm thời gian, chi phí.
+## Thông tin môn học
 
->## Nhóm thực hiện: 6A
+- **Tên môn học:** Phân tích & Thiết kế Hệ thống Thông tin  
+- **Mã môn học:** IS201  
+- **Mã lớp:** IS201.O23  
+- **Giảng viên hướng dẫn:** ThS. Phan Nguyễn Thụy An
 
-Khoa: Hệ thống thông tin
+---
 
-Trường ĐH Công Nghệ Thông Tin - ĐHQGHCM
+## Giới thiệu đề tài
 
-| STT | MSSV     | Họ và Tên                  | Email                   |
-|-----|----------|----------------------------|-------------------------|
-| 1   | 22520950 | Đỗ Minh Nghiêm             | 22520950@gm.uit.edu.vn  |
-| 2   | 22520958 | Nguyễn Thị Hồng Ngọc       | 22520958@gm.uit.edu.vn  |
-| 3   | 22520976 | Nguyễn Phan Thảo Nguyên    | 22520976@gm.uit.edu.vn  |
-| 4   | 22521374 | Phạm Trần Dạ Thảo          | 22521374@gm.uit.edu.vn  |
+**Tên đề tài:** Hệ thống quản lý đặt hàng quán cà phê
+
+Đề tài hướng tới việc phát triển một hệ thống phần mềm giúp quản lý hoạt động đặt hàng tại quán cà phê, với mục tiêu tối ưu hóa quy trình vận hành, nâng cao chất lượng dịch vụ, đồng thời hỗ trợ quản lý hiệu quả và tiết kiệm chi phí vận hành.
+
+### Các chức năng chính:
+- **Quản lý đơn hàng:** Tiếp nhận đơn đặt hàng, cập nhật trạng thái đơn theo thời gian thực.
+- **Quản lý thực đơn:** Thêm, sửa, xóa món ăn, hình ảnh, mô tả, giá, chương trình khuyến mãi.
+- **Quản lý khách hàng:** Lưu trữ thông tin, lịch sử đặt hàng, tích điểm đổi quà, phân tích hành vi tiêu dùng.
+
+Phần mềm giúp nhân viên thao tác nhanh chóng, giảm thiểu sai sót và tăng mức độ hài lòng từ phía khách hàng.
+
+---
+
+## Nhóm thực hiện – Nhóm 6A  
+**Khoa:** Hệ thống Thông tin  
+**Trường:** Đại học Công nghệ Thông tin – ĐHQG TP.HCM
+
+| STT | MSSV     | Họ và tên               | Email                    |
+|-----|----------|--------------------------|--------------------------|
+| 1   | 22520950 | Đỗ Minh Nghiêm           | 22520950@gm.uit.edu.vn   |
+| 2   | 22520958 | Nguyễn Thị Hồng Ngọc     | 22520958@gm.uit.edu.vn   |
+| 3   | 22520976 | Nguyễn Phan Thảo Nguyên  | 22520976@gm.uit.edu.vn   |
+| 4   | 22521374 | Phạm Trần Dạ Thảo        | 22521374@gm.uit.edu.vn   |
+
+---
+
